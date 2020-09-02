@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3400" started-at="2020-09-02T01:26:36 IST" finished-at="2020-09-02T01:26:39 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3400" started-at="2020-09-02T01:26:36 IST" finished-at="2020-09-02T01:26:39 IST">
+      <class name="testcases.TC03_GET_BadgesTags">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testcases.TC03_GET_BadgesTags@22a67b4]" name="setup" is-config="true" duration-ms="3079" started-at="2020-09-02T01:26:36 IST" finished-at="2020-09-02T01:26:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyStatusCodeAndStatusLine()[pri:1, instance:testcases.TC03_GET_BadgesTags@22a67b4]" name="verifyStatusCodeAndStatusLine" duration-ms="5" started-at="2020-09-02T01:26:39 IST" finished-at="2020-09-02T01:26:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyStatusCodeAndStatusLine -->
+        <test-method status="PASS" signature="verifyTagbasedBadge()[pri:2, instance:testcases.TC03_GET_BadgesTags@22a67b4]" name="verifyTagbasedBadge" duration-ms="291" started-at="2020-09-02T01:26:39 IST" finished-at="2020-09-02T01:26:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTagbasedBadge -->
+      </class> <!-- testcases.TC03_GET_BadgesTags -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
